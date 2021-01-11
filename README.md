@@ -1,6 +1,6 @@
 # TinDog
 
-A simple responsive website that I have created during my web design practice.
+A responsive website that I have created during my web design practice.
 
 * Link to the website:- https://saichandras.github.io/TinDog/index.html
 * Here are a few pictures of the website :-
